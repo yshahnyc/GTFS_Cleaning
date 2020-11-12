@@ -1,2 +1,2 @@
 # GTFS_Cleaning
-Running analysis on GTFS data in R
+Cleaning and sorting GTFS data on during different service periods in R
